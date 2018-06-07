@@ -416,7 +416,7 @@
     "model",
     "repository"
   ]
-  revision = "1bb87923d7c8dd4df78e96d46a254a3dcf24a360"
+  revision = "03aa9dc1b74be7b62fadc927bedd40e3cd1d7b10"
 
 [[projects]]
   name = "gopkg.in/src-d/enry.v1"
@@ -452,6 +452,7 @@
     "helper/chroot",
     "helper/mount",
     "helper/polyfill",
+    "memfs",
     "osfs",
     "util"
   ]
@@ -517,8 +518,8 @@
     ".",
     "types"
   ]
-  revision = "c2ebbd83ebfbcfc4f5974ecdb225183a521797e1"
-  version = "v1.3.3"
+  revision = "b1269648051c4fa3feaceba211cc40837e1cdd01"
+  version = "1.3.4"
 
 [[projects]]
   name = "gopkg.in/src-d/go-license-detector.v2"
@@ -530,7 +531,7 @@
     "licensedb/internal/processors",
     "licensedb/internal/wmh"
   ]
-  revision = "d69b5eb70a3f26cb1261ad01fd2f51934f06075a"
+  revision = "259bdcf6543d3e11ee2595bdfaf3fe16a1e84c26"
   version = "v2"
 
 [[projects]]
@@ -563,6 +564,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "2b3d3abf1d04b5e2d5e198ae9033ce8278e8ad75368251825889ea2f888c5323"
+  inputs-digest = "f29b83a4743f223595b58132ec93b5558d1cffd8b7a44c5f3bcba078931a4b83"
   solver-name = "gps-cdcl"
   solver-version = 1
